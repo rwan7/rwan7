@@ -1,9 +1,12 @@
-<h1 align="center">Hi there 👋, I'm Annanda!</h1>
-<h3 align="center">🎮 Aspiring Game Developer | 📸 Creative Explorer | 💻 Unity Enthusiast</h3>
+<h1 align="center"> 
+  <img src="https://cdn3.emoji.gg/emojis/2882-bangboo-heart.png" width="30px" height="30px" alt="bangboo_heart">
+  <a>Annanda Kurniawan</a>
+  <img src="https://cdn3.emoji.gg/emojis/9652-bangboo-excited.png" width="30px" height="30px" alt="bangboo_excited">
+</h1>
 
 ---
 
-My name is Annanda Kurniawan, a game developer from Indonesia. I'm a computer science major with a focus on Game Development. I have a deep interest in game development, especially with Unity Engine.
+My name is **Annanda Kurniawan**, a game developer from Indonesia. I'm a computer science major with a focus on Game Development. I have a deep interest in game development, especially with Unity Engine.
 
 ---
 
@@ -48,15 +51,7 @@ My name is Annanda Kurniawan, a game developer from Indonesia. I'm a computer sc
 
 ### Portfolio:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rwan7&show_icons=true&theme=tokyonight" alt="rwan7 stats"/>
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwan7&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=rwan7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <a href="https://ryblue.itch.io/">itch.io</a>
 </p>
 
 ---
