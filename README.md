@@ -1,7 +1,5 @@
 <h1 align="center"> 
-  <img src="https://cdn3.emoji.gg/emojis/2882-bangboo-heart.png" width="30px" height="30px" alt="bangboo_heart">
   <a>Annanda Kurniawan</a>
-  <img src="https://cdn3.emoji.gg/emojis/9652-bangboo-excited.png" width="30px" height="30px" alt="bangboo_excited">
 </h1>
 
 ---
