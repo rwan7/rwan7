@@ -50,6 +50,7 @@ My name is **Annanda Kurniawan**, a game developer from Indonesia. I'm a compute
 ### Portfolio:
 <p align="left">
   <a href="https://ryblue.itch.io/">itch.io</a>
+  <a href="https://rwan7.github.io/Nanda-Portfolio/">Portfolio</a>
 </p>
 
 ---
